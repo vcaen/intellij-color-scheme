@@ -1,4 +1,4 @@
 # intellij-color-scheme
 Custom Color Scheme for Intellij
 
-![screenshot.png]
+![screenshot](screenshot.png)
